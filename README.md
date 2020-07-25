@@ -4,6 +4,9 @@
   <a href="https://twitter.com/dootdoot1111" target="_blank">
     <img alt="Twitter: dootdoot1111" src="https://img.shields.io/twitter/follow/dootdoot1111.svg?style=social" />
   </a>
+  <a href="MIT License" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
 </p>
 
 > A MacOS tool that makes use of all available steganography tools very easy !

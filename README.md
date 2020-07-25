@@ -14,6 +14,7 @@
 
 ```sh
 git clone https://github.com/dootdoot1111/StegALL.git
+cd StegALL
 ```
 
 ## Usage
@@ -24,9 +25,9 @@ git clone https://github.com/dootdoot1111/StegALL.git
 ## Screenshots
 
 <img alt="Screenshot1" src="https://raw.githubusercontent.com/dootdoot1111/StegALL/master/Images/sample.jpg" />
-<img alt="Screenshot1" src="https://raw.githubusercontent.com/dootdoot1111/StegALL/master/Images/sample2.jpg" />
-<img alt="Screenshot1" src="https://raw.githubusercontent.com/dootdoot1111/StegALL/master/Images/sample3.jpg" />
-<img alt="Screenshot1" src="https://raw.githubusercontent.com/dootdoot1111/StegALL/master/Images/sample4.jpg" />
+<img alt="Screenshot2" src="https://raw.githubusercontent.com/dootdoot1111/StegALL/master/Images/sample2.jpg" />
+<img alt="Screenshot3" src="https://raw.githubusercontent.com/dootdoot1111/StegALL/master/Images/sample3.jpg" />
+<img alt="Screenshot4" src="https://raw.githubusercontent.com/dootdoot1111/StegALL/master/Images/sample4.jpg" />
 
 
 

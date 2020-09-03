@@ -23,6 +23,7 @@ cd StegALL
 ## Usage
 
 ```sh
+chmod +x stegall
 ./stegall <file> |[-h] (for help)
 ```
 ## Screenshots
